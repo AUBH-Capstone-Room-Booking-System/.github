@@ -21,3 +21,11 @@ This organization represents our capstone project work at AUBH in 2023/2024. The
 ### Wiring Diagram:
 ![PHOTO-2024-06-22-16-13-46 2](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/aafd0a62-3824-4bf3-acc6-54928e4f7730)
 
+## Wireframes
+### Web Application (![Click here](https://www.figma.com/proto/3R2gQXbFojuOjZfvDGQOnA/AUBH-Capstone-Wireframes?node-id=42-1129&t=BZia0RajG51VUSk4-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A1129))
+![AUBH Capstone Wireframes](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/132952e1-fcc0-4238-9d2f-7bb7f3454afb)
+
+### Mobile Application (![Click here](https://www.figma.com/proto/3R2gQXbFojuOjZfvDGQOnA/AUBH-Capstone-Wireframes?node-id=27-2755&t=n627n2vlJGEQ2Eor-1&scaling=contain&content-scaling=fixed&page-id=26%3A2&starting-point-node-id=27%3A2755))
+![AUBH Capstone Wireframes-2](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/39d9e5d8-4201-414e-be07-9b9f922f29c1)
+
+
