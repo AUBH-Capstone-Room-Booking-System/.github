@@ -3,7 +3,7 @@
 ## By:
 [Farah Khafate](https://www.linkedin.com/in/farah-khafate-5a2139268/) & [Maryam Alshaikh](https://www.linkedin.com/in/maryamalshaiikh/)
 
-## Presentation: [Click here to view)[https://www.canva.com/design/DAF2Co56MJ0/ko3hSKlTSGC2KB4-M6c32A/view?utm_content=DAF2Co56MJ0&utm_campaign=designshare&utm_medium=link&utm_source=editor]]
+## Presentation: [Click here to view](https://www.canva.com/design/DAF2Co56MJ0/ko3hSKlTSGC2KB4-M6c32A/view?utm_content=DAF2Co56MJ0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Topic:
 This organization represents our capstone project work at AUBH in 2023/2024. The project "Optimizing Comfort Index in Learning Environments: Focus on Study Rooms" consisted of implementing a meeting room booking system where:
