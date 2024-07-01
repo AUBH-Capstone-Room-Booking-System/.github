@@ -1,8 +1,7 @@
 # Optimizing Comfort Index in Learning Environments: Focus on Study Rooms
 
 ## By:
-- [Farah Khafate](https://www.linkedin.com/in/farah-khafate-5a2139268/)
-- [Maryam Alshaikh](https://www.linkedin.com/in/maryamalshaiikh/)
+[Farah Khafate](https://www.linkedin.com/in/farah-khafate-5a2139268/) & [Maryam Alshaikh](https://www.linkedin.com/in/maryamalshaiikh/)
 
 ## Topic:
 This organization represents our capstone project work at AUBH in 2023/2024. The project "Optimizing Comfort Index in Learning Environments: Focus on Study Rooms" consisted of implementing a meeting room booking system where:
