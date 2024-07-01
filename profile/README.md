@@ -12,6 +12,16 @@ This organization represents our capstone project work at AUBH in 2023/2024. The
 - The backend for both web and mobile applications were made with ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - An API endpoint to connect the hardware to the web & mobile applications using ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## System Design:
+### UML Use Case Diagram:
+![Capstone Diagrams-Use Case Diagram drawio](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/7d0e5c1d-61aa-495c-91ae-3c127eb94b2a)
+
+### UML Activity Diagram:
+![Capstone Diagrams-Activity Diagram drawio](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/268ab442-b14a-499c-9afe-33a30a2ff7c2)
+
+### Entity-Relationship Diagram:
+![Capstone Diagrams-ER Diagram drawio](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/35f9f673-ee8f-45be-8e06-c551384a1d50)
+
 ## Hardware Prototype:
 ### Block Diagram:
 ![PHOTO-2024-06-22-16-07-55](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/e37b4708-95aa-47da-bff5-53513c8d4691)
