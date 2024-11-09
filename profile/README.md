@@ -27,7 +27,7 @@ This organization represents our capstone project work at AUBH in 2023/2024 titl
 ### Schematic Diagram:
 ![PHOTO-2024-06-22-16-13-46](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/2df282fc-1094-470c-9db5-28bbfdffccd0)
 
-### Wiring Diagram:
+### Wiring Diagram ([Click here to view simulation](https://wokwi.com/projects/399432334836878337)):
 ![PHOTO-2024-06-22-16-13-46 2](https://github.com/AUBH-Capstone-Room-Booking-System/.github/assets/127206744/aafd0a62-3824-4bf3-acc6-54928e4f7730)
 
 ## Wireframes:
