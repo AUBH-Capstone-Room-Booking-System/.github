@@ -14,6 +14,7 @@ If you use this work in your research, please cite it as:
   url = "https://aubh.figshare.com/articles/thesis/_b_Optimizing_Comfort_Index_in_Learning_Environments_Focus_on_Study_Rooms_b_/27917385",
   doi = "10.58014/aubh.27917385.v1"
 }
+```
 
 ## Topic:
 This organization represents our capstone project work at AUBH in 2023/2024 titled "Optimizing Comfort Index in Learning Environments: Focus on Study Rooms", which consisted of implementing a meeting room booking system where:
