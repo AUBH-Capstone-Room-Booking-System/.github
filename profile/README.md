@@ -2,6 +2,19 @@
 
 ## By: [Farah Khafate](https://www.linkedin.com/in/farah-khafate-5a2139268/) & [Maryam Alshaikh](https://www.linkedin.com/in/maryamalshaiikh/) ([Click here to view presentation](https://www.canva.com/design/DAF2Co56MJ0/ko3hSKlTSGC2KB4-M6c32A/view?utm_content=DAF2Co56MJ0&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
+## Citation:
+If you use this work in your research, please cite it as:
+
+```bibtex
+@article{Khafate2024,
+  author = "Farah Khafate and Maryam Alshaikh",
+  title = "{Optimizing Comfort Index in Learning Environments: Focus on Study Rooms}",
+  year = "2024",
+  month = "11",
+  url = "https://aubh.figshare.com/articles/thesis/_b_Optimizing_Comfort_Index_in_Learning_Environments_Focus_on_Study_Rooms_b_/27917385",
+  doi = "10.58014/aubh.27917385.v1"
+}
+
 ## Topic:
 This organization represents our capstone project work at AUBH in 2023/2024 titled "Optimizing Comfort Index in Learning Environments: Focus on Study Rooms", which consisted of implementing a meeting room booking system where:
 - The room availability is detected using ![Embedded C](https://img.shields.io/badge/Embedded_C-%2310811F.svg?style=for-the-badge&logo=C&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
