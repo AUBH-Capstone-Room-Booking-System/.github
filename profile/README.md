@@ -1,8 +1,10 @@
 # Optimizing Comfort Index in Learning Environments: Focus on Study Rooms
 
-## By: [Farah Khafate](https://www.linkedin.com/in/farah-khafate-5a2139268/) & [Maryam Alshaikh](https://www.linkedin.com/in/maryamalshaiikh/) ([Click here to view presentation](https://www.canva.com/design/DAF2Co56MJ0/ko3hSKlTSGC2KB4-M6c32A/view?utm_content=DAF2Co56MJ0&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+## By: 
+- Farah Khafate
+- Maryam Alshaikh
 
-## Citation:
+## Citation ([Click here to view presentation](https://www.canva.com/design/DAF2Co56MJ0/ko3hSKlTSGC2KB4-M6c32A/view?utm_content=DAF2Co56MJ0&utm_campaign=designshare&utm_medium=link&utm_source=editor)):
 If you use this work in your research, please cite it as:
 
 ```bibtex
